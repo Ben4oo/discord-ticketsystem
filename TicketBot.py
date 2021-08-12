@@ -86,7 +86,7 @@ def frapper(lines, chars=4000):
 async def on_ready():
     print("---------------------------------")
     print(f"{bot.user.name} is online. \r\n"
-          f"Running on current version: 1.0")
+          f"Running on current version: 1.0.0")
     print("---------------------------------")
     DiscordComponents(bot)
 
@@ -248,7 +248,7 @@ async def ticket(ctx):
     embed = discord.Embed(title="Ticket system", description="To create a ticket just click the button below.",
                           color=0x00ffff)
     await ctx.send(embed=embed, components=buttons)
-    await ctx.delete()
+    await ctx.message.delete()
 
 
 bot.run(BotToken)
