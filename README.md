@@ -18,7 +18,7 @@ This is what the message looks like in the ticket:
 
 This is what a message looks like in the ticket archive:
 
-<img src="./IGNORE/ArchivExample.png" alt="ArchivExample" title="A preview of the message in the archive." width=200px />
+<img src="./IGNORE/ArchivExample.png" alt="ArchivExample" title="A preview of the message in the archive." width=400px hight=400px />
 
 ## Version:
 V 1.0.0
