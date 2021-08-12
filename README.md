@@ -1,6 +1,7 @@
 # Discord Bot Ticket-System
 
 > A simple ticket system for your Discord bot.
+> If you have any errors or concerns, please write to me via Discord: Ben_ # 9999
 
 ## How to use the Code:
 
