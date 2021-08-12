@@ -2,7 +2,7 @@
 
 > A simple ticket system for your Discord bot.
 
-### How to use the Code:
+## How to use the Code:
 
 1. Download the zip file from GitHub and unzip it.
 2. Check whether your version in README.md matches the [current version](https://github.com/Ben4oo/discord-ticketsystem/blob/main/README.md#version), otherwise download the latest version.
@@ -10,7 +10,7 @@
 4. Execute the file `mainbuildergamesbot.py`: *Debian:* `python3 mainbuildergamesbot.py & `
 6. I would recommend always checking that your version is up to date! ([current version](https://github.com/Ben4oo/discord-ticketsystem/blob/main/README.md#version))
 
-### Preview:
+## Preview:
 
 This is what the message looks like in the ticket:
 
