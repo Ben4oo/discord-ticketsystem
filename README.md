@@ -9,7 +9,9 @@
 2. Check whether your version in README.md matches the [current version](https://github.com/Ben4oo/discord-ticketsystem/blob/main/README.md#version), otherwise download the latest version.
 3. Open the file `TicketBot.ini` and adjust **ALL** values in the **[Config]** section.   
 4. Execute the file `TicketBot.py`: *Debian:* `python3 TicketBot.py & `
-6. I would recommend always checking that your version is up to date! ([current version](https://github.com/Ben4oo/discord-ticketsystem/blob/main/README.md#version))
+5. Type `!ticket` in the channel where the Ticket-open should be. 
+6. Use `!ticketban`/`!ticketunban` to ban/unban users.
+7. I would recommend always checking that your version is up to date! ([current version](https://github.com/Ben4oo/discord-ticketsystem/blob/main/README.md#version))
 
 ## Preview:
 
