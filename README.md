@@ -8,7 +8,7 @@
 1. Download the zip file from GitHub and unzip it.
 2. Check whether your version in README.md matches the [current version](https://github.com/Ben4oo/discord-ticketsystem/blob/main/README.md#version), otherwise download the latest version.
 3. Open the file `TicketBot.ini` and adjust **ALL** values in the **[Config]** section.   
-4. Execute the file `mainbuildergamesbot.py`: *Debian:* `python3 mainbuildergamesbot.py & `
+4. Execute the file `TicketBot.py`: *Debian:* `python3 TicketBot.py & `
 6. I would recommend always checking that your version is up to date! ([current version](https://github.com/Ben4oo/discord-ticketsystem/blob/main/README.md#version))
 
 ## Preview:
